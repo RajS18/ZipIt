@@ -1,0 +1,1 @@
+This is a sample text for compression using Huffman and LWZ encoding. It is just a demonstration, so the text is short.
